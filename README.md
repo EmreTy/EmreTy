@@ -1,10 +1,12 @@
 # Hi there 👋
 
-## I'm a Webdeveloper
+## I'm a budding Webdeveloper
 
-### I like soccer since i was a child and that is why i'm also a referee
+### I'm student at [Coding Bootcamps Europe GmbH](https://www.coding-bootcamps.eu/welcome/)
 
-#### ![image](https://user-images.githubusercontent.com/89583591/131351161-f3994129-3561-4ad1-9476-ec21284601d3.png)
+#### I also like soccer since i was a child and this is why i'm a referee
+
+##### ![image](https://user-images.githubusercontent.com/89583591/131351161-f3994129-3561-4ad1-9476-ec21284601d3.png)
 
 
 
