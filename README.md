@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm a budding Webdeveloper
+## I'm a prospective Webdeveloper
 
 ### I'm student at [Coding Bootcamps Europe GmbH](https://www.coding-bootcamps.eu/welcome/)
 
