@@ -1,13 +1,14 @@
-# Hi there 👋
+# Hello there 👋
 
 ## I'm a prospective Webdeveloper
 
 ### I learn coding at [Coding Bootcamps Europe GmbH](https://www.coding-bootcamps.eu/welcome/) 👌
 
-#### I also like soccer since i was a child and this is why i'm a referee
+#### I am looking for a job as a web developer
 
-##### ![image](https://user-images.githubusercontent.com/89583591/131351161-f3994129-3561-4ad1-9476-ec21284601d3.png)
+##### I learned to program on my own of [this website](https://karel.csbridge.org/java/de/chapter1.html)
 
+##### ⚽I also like soccer since i was a child and this is why i'm a referee
 
 
 
