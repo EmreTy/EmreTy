@@ -2,7 +2,7 @@
 
 ## I'm a prospective Webdeveloper
 
-### I'm student at [Coding Bootcamps Europe GmbH](https://www.coding-bootcamps.eu/welcome/)
+### I learn coding at [Coding Bootcamps Europe GmbH](https://www.coding-bootcamps.eu/welcome/) 👌
 
 #### I also like soccer since i was a child and this is why i'm a referee
 
