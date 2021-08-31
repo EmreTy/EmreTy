@@ -6,7 +6,7 @@
 
 #### I am looking for a job as a web developer
 
-##### I learned to program on my own of [this website](https://karel.csbridge.org/java/de/chapter1.html)
+##### [Here](https://karel.csbridge.org/java/de/chapter1.html) I learned to program on my own
 
 ##### ⚽I also like soccer since i was a child and this is why i'm a referee
 
