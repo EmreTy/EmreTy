@@ -6,7 +6,7 @@
 
 ##### [Here](https://karel.csbridge.org/java/de/chapter1.html) I learned to program on my own
 
-##### ⚽I also like soccer since i was a child and this is why i'm a referee
+##### ⚽I'm a referee
 
 
 
