@@ -1,8 +1,6 @@
-# Hello there 👋
+### Hi I'm a prospective Webdeveloper
 
-## I'm a prospective Webdeveloper
-
-### I learn coding at [Coding Bootcamps Europe GmbH](https://www.coding-bootcamps.eu/welcome/) 👌
+#### I learn coding at [Coding Bootcamps Europe GmbH](https://www.coding-bootcamps.eu/welcome/) 👌
 
 #### I am looking for a job as a web developer
 
