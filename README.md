@@ -4,10 +4,6 @@
 
 #### I am looking for a job as a web developer
 
-##### [Here](https://karel.csbridge.org/java/de/chapter1.html) I learned to program on my own
-
-##### ⚽I'm a referee
-
 
 
 <!--
